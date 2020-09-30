@@ -4,3 +4,6 @@
 [submodule "libs/lib-test-b_Helgruft"]
 	path = libs/lib-test-b_Helgruft
 	url = git@github.com:Romain-Guinais/lib-test-b_Helgruft.git
+[submodule "libs/lib-test-b_AllanIIA"]
+	path = libs/lib-test-b_AllanIIA
+	url = git@github.com:AllanIIA/lib-test-b_AllanIIA.git
