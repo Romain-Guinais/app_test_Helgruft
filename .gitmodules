@@ -1,0 +1,6 @@
+[submodule "libs/lib-test-a_Helgruft"]
+	path = libs/lib-test-a_Helgruft
+	url = git@github.com:Romain-Guinais/lib-test-a_Helgruft.git
+[submodule "libs/lib-test-b_Helgruft"]
+	path = libs/lib-test-b_Helgruft
+	url = git@github.com:Romain-Guinais/lib-test-b_Helgruft.git
